@@ -1,0 +1,299 @@
+Zer da aldagaia (variable) C hizkuntzan?
+Funtzio mota bat
+Datuak gordetzeko memoria-eremu bat
+Iruzkina
+2
+
+Zer da CPU?
+Periferiko bat
+Prozesamendu Unitate Zentrala
+RAM memoria
+2
+
+Zein sinbolok amaitzen du instrukzio bat C-n?
+:
+,
+;
+3
+
+Zein gailuk konektatzen ditu sare desberdinak?
+Switch
+Router
+Hub
+2
+
+Zer esan nahi du RAM siglak?
+Read Access Memory
+Random Access Memory
+Rapid Access Machine
+2
+
+Zein bucle exekutatzen da gutxienez behin C-n?
+for
+while
+do-while
+3
+
+Zer da IP helbide bat?
+Programa bat
+Sareko identifikatzaile bat
+Fitxategi bat
+2
+
+Zer da sistema eragile bat?
+Joko bat
+Hardwarea kudeatzen duen softwarea
+Kable bat
+2
+
+Zein da C-ko sarrera estandarrerako funtzioa?
+print()
+scanf()
+input()
+2
+
+Zer da DNS?
+Segurtasun sistema bat
+Domeinu-izenak IPetara itzultzen dituen zerbitzua
+Nabigatzaile bat
+2
+
+Zer da switch bat?
+Sareak konektatzeko gailua
+Sare bereko gailuak konektatzeko gailua
+Firewall bat
+2
+
+Zein datu mota da zenbaki osoak gordetzeko C-n?
+float
+char
+int
+3
+
+Zer da hardwarea?
+Programak
+Ordenagailuaren zati fisikoak
+Internet
+2
+
+Zer da softwarea?
+Kableak
+Programak eta aplikazioak
+Disko gogorra
+2
+
+Zer da firewall bat?
+Birus bat
+Sare-segurtasun sistema bat
+Fitxategi mota bat
+2
+
+Zer da array bat C-n?
+Funtzio bat
+Datu mota bereko elementuen multzoa
+Baldintza bat
+2
+
+Zer da LAN sare bat?
+Sare globala
+Eremu txikiko sarea
+Internet
+2
+
+Zein sistema eragile da kode irekikoa?
+Windows
+macOS
+Linux
+3
+
+Zer da loop bat?
+Baldintza bat
+Kode zatia behin eta berriro exekutatzea
+Aldagaia
+2
+
+Zer da IPv6?
+Kable mota bat
+IP protokoloaren bertsio bat
+Sistema eragilea
+2
+
+Zein da web orriak sortzeko hizkuntza?
+HTML
+C
+Python
+1
+
+Zer da HTTPS?
+HTTP segururik gabe
+Zifratutako HTTP
+Antivirus bat
+2
+
+Zer da byte bat?
+4 bit
+8 bit
+16 bit
+2
+
+Zer egiten du printf() funtzioak C-n?
+Datuak irakurri
+Pantailan testua erakutsi
+Fitxategia ireki
+2
+
+Zer da malwarea?
+Software legala
+Software gaiztoa
+Hardware akatsa
+2
+
+Zer da router baten funtzio nagusia?
+Gailuak piztea
+Sare desberdinen arteko komunikazioa
+Fitxategiak gordetzea
+2
+
+Zer da kondizio bat programazioan?
+Aldagai mota
+Egia ala gezurra den ebaluazioa
+Iruzkina
+2
+
+Zer da fitxategi exekutagarri bat Windowsen?
+.txt
+.exe
+.jpg
+2
+
+Zer da Wi-Fi?
+Kable mota
+Haririk gabeko sarea
+Sistema eragilea
+2
+
+Zer da if agindua C-n?
+Bucle bat
+Baldintzapeko egitura
+Aldagaia
+2
+
+Zer da zerbitzari bat?
+Bezero bat
+Zerbitzuak eskaintzen dituen ordenagailua
+Switch bat
+2
+
+Zer da proxy bat?
+Birus bat
+Bezero eta zerbitzariaren arteko bitartekaria
+Nabigatzailea
+2
+
+Zer da bug bat?
+Hardware pieza
+Software-errore bat
+Sistema eragilea
+2
+
+Zer da backup bat?
+Programa bat
+Segurtasun-kopia bat
+Birus mota
+2
+
+Zer da C hizkuntza?
+Markaketa hizkuntza
+Programazio hizkuntza
+Sistema eragilea
+2
+
+Zer da DNS zerbitzari baten funtzioa?
+Weba sortzea
+Izenak IP helbideetara itzultzea
+Fitxategiak gordetzea
+2
+
+Zer da algoritmo bat?
+Programa bat
+Arazo bat konpontzeko pauso-multzoa
+Hardware pieza
+2
+
+Zer da monitor bat?
+Sarrera gailua
+Irteera gailua
+Biltegiratze gailua
+2
+
+Zer da while buclea?
+Baldintzarik gabeko buclea
+Baldintza egia den bitartean exekutatzen den buclea
+Funtzio bat
+2
+
+Zer da fitxategi konprimatua?
+Ezabatutako fitxategia
+Gutxiago okupatzen duen fitxategia
+Birus bat
+2
+
+Zer da informatikako segurtasuna?
+Hardware mantentzea
+Sistemak eta datuak babestea
+Programazioa
+2
+
+Zer da char datu mota?
+Zenbaki osoa
+Karaktere bat
+Zenbaki hamartarra
+2
+
+Zer da WAN sare bat?
+Sare lokala
+Eremu zabaleko sarea
+Sare pertsonala
+2
+
+Zer da erabiltzaile administratzailea?
+Baimen gutxiko erabiltzailea
+Sistema kontrol osoa duen erabiltzailea
+Gonbidatua
+2
+
+Zer da pointer bat C-n?
+Aldagai arrunta
+Memoria-helbide bat gordetzen duen aldagaia
+Funtzio bat
+2
+
+Zer da BIOS?
+Sistema eragilea
+Ordenagailua abiarazten duen firmwarea
+Antivirus bat
+2
+
+Zer da pasahitz sendo bat?
+1234
+Izena
+Letra, zenbaki eta sinboloen konbinazioa
+3
+
+Zer da fitxategi bat?
+Programa bat
+Datuak gordetzeko unitatea
+Sare mota
+2
+
+Zer da return agindua?
+Aldagaia sortzea
+Funtzio baten balioa itzultzea
+Bucle bat
+2
+
+Zer da Packet Tracer?
+Sistema eragilea
+Sareak simulatzeko tresna
+Programazio hizkuntza
+2
